@@ -1,3 +1,8 @@
+# Source
+Cloned from this repository: https://github.com/DragonWolfLeo/extendedsamplecharacter-dontstarvetogether
+
+See below for original project README.
+
 # Extended Sample Character for Don't Starve Together
 A character mod template.
 
